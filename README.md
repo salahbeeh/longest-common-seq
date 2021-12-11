@@ -30,5 +30,5 @@ Compare S1[i] and S2[j]
 ```
 
 ## Output 
-here is what the output look like, my code output should've draw a map between the sequances but I failed to do it for now, I'll update it once I have the drawing function working.
+here is what the output look like, my code output should've draw a map between the sequances ,but I'll update it once I have the drawing function working.
 ![output](output.png)
